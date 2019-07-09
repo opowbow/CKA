@@ -1,0 +1,15 @@
+Kubernetes is the real deal these days. Everyone is talking about it and everyone is looking to learn all about it.
+What better way to demonstrate your prowess in this technology area than a globally recognised certification?
+Look no further than the CNCF (Cloud Native Computing Foundation) and the LinuxFoundation who have created a CKA and CKAD program in an effort to develop the Kubernetes ecosystem.
+
+CKA stands for Certified Kubernetes Administrator ; with D being for Developer. So there are two certifications - CKA and CKAD. There is a lot of overlap in concepts between the two exams so prepping for one helps with the other, (around 60% content overlap in my experience).
+Good news right..?
+Right, even better news is that there are some key gotchas that I have found that helped me pass both of these exams which I am going to highlight over a series of blog posts.
+These posts will cover the key sections of Curriculum Overview, Training material and Resources at Hand, Command-line tips and useful Training  materials.
+The focus in this series will be mainly around the CKA exam, but bear in mind the overlap between this and CKAD exam.
+
+Before we dig in, I have covered this on a high level before in a lightening at KubeCon19 - here
+So check that out first.
+
+Then head on over the the first in the series - Post1: Curriculum Overview and Exam Format...
+....and good luck !
